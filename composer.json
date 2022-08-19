@@ -1,0 +1,19 @@
+{
+    "name": "jessi/consultas",
+    "description": "esta libreria es para realizar consultas",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jessi\\Consultas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ricardo Olais",
+            "email": "r.hernandez@lidpcorp.mx"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
